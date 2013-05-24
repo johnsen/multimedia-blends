@@ -13,4 +13,4 @@ Depends: jack-tools
 
 Depends: patchage
 
-Suggests: non-session-manager
+Depends: non-session-manager
