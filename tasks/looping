@@ -5,15 +5,15 @@ Description: Packages for looping music and audio
 
 Depends: sooperlooper
 
-Depends: smasher
+Suggests: giada
+
+Suggests: smasher
 
 Suggests: kluppe
 
 Suggests: freewheeling
 
 Suggests: seq24
-
-Suggests: rosegarden
 
 Suggests: ardour
 
