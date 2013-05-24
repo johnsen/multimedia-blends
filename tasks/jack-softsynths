@@ -4,7 +4,7 @@ Description: JACK standalone softsynths
 
 Depends: ams
 
-Depends: zynaddsubfx
+Depends: zynaddsubfx | yoshimi
 
 Depends: amsynth
 
@@ -14,10 +14,12 @@ Depends: synthv1
 
 Suggests: phasex
 
-Suggests: yoshimi
-
 Suggests: bristol
 
 Suggests: azr3-jack
 
 Suggests: aeolus
+
+Suggests: horgand
+
+Suggests: foo-yc20
