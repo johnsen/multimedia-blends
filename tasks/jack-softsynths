@@ -11,6 +11,8 @@ Depends: amsynth
 
 Depends: setbfree
 
+Depends: synthv1
+
 Suggests: phasex
 
 Suggests: yoshimi
