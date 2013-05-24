@@ -13,26 +13,14 @@ Suggests: fmit
 
 Suggests: stretchplayer
 
-#Suggests: playitslowly
-
-Suggests: impro-visor
-
-#Depends: audacity
-
 Depends: musescore
 
 Depends: lilypond
 
 Depends: lilypond-data
 
-Suggests: nted
+Suggests: laborejo-qt
 
 Suggests: frescobaldi
-
-Suggests: denemo
-
-Suggests: rosegarden
-
-Depends: impro-visor
 
 Suggests: mma
