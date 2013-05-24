@@ -83,3 +83,5 @@ Suggests: ardour
 Suggests: audacity
 
 Suggests: carla
+
+Suggests: rakarrack
