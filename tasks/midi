@@ -27,7 +27,7 @@ Depends: non-sequencer
 
 Depends: zynaddsubfx
 
-Suggests: ardour3
+Depends: ardour3
 
 Suggests: jack-smf-utils
 
