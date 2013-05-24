@@ -1,4 +1,4 @@
-Task: multimedia-jack-softsynths
+Task: multimedia-softsynths-jack
 Description: JACK standalone softsynths
  This metapackage installs JACK standalone softsynths for music production.
 
