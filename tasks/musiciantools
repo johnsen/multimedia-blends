@@ -19,8 +19,6 @@ Depends: lilypond
 
 Depends: lilypond-data
 
-Suggests: laborejo-qt
-
 Suggests: frescobaldi
 
 Suggests: mma
