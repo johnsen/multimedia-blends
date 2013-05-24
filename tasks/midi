@@ -27,8 +27,6 @@ Depends: non-sequencer
 
 Depends: zynaddsubfx
 
-Suggests: harmonyseq
-
 Suggests: ardour3
 
 Suggests: jack-smf-utils
