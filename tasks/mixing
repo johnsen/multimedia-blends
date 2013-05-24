@@ -24,8 +24,6 @@ Depends: zita-at1
 
 Depends: meterbridge
 
-Depends: non-mixer
-
 Depends: caps 
 
 Depends: fil-plugins 
