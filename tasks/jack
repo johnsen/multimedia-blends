@@ -14,3 +14,7 @@ Depends: jack-tools
 Depends: patchage
 
 Depends: non-session-manager
+
+Suggests: laditools
+
+Suggests: ladish
