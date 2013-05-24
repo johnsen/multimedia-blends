@@ -1,7 +1,7 @@
 Task: multimedia-midi
 Description: MIDI related packages
- This metapackage will install packages useful for MIDI, including trackers,
- MIDI synths and virtual keyboards.
+ This metapackage will install packages useful for MIDI,
+ MIDI sequencing, midi connecting and generating sound via midi.
 
 Depends: qtractor
 
@@ -9,54 +9,40 @@ Depends: a2jmidid
 
 Depends: jack-keyboard
 
-#Depends: vkeybd
-
 Depends: qsynth
 
-Depends: aubio-tools
-
-Depends: fluidsynth
+Depends: fluidsynth-dssi
 
 Depends: fluid-soundfont-gm
 
-#Depends: aseqdump
+Depends: qmidiarp
 
-Depends: yoshimi
+Depends: qmidiroute
 
-Depends: seq24
+Depends: qmidicontrol
 
-Depends: gmidimonitor
+Depends: mididings
 
-#Depends: qmidiarp
+Depends: non-sequencer
 
-#Depends: qmidiroute
+Depends: zynaddsubfx
 
-#Depends: qmidicontrol
+Suggests: harmonyseq
 
-Depends: jack-smf-utils
+Suggests: ardour3
 
-#Depends: proaudio-plugins-dssi
+Suggests: jack-smf-utils
 
 Suggests: kmidimon
 
-Depends: abcmidi
+Suggests: abcmidi
 
 Suggests: rosegarden
 
-Suggests: mididings
-
 Suggests: muse
 
-#Suggests: seq24
-
-Suggests: non-sequencer
-
-Suggests: lmms
+Suggests: seq24
 
 Suggests: swami
-
-Depends: jacker
-
-Depends: milkytracker
 
 Suggests: schism
