@@ -9,6 +9,6 @@ Suggests: freewheeling
 
 Suggests: seq24
 
-Suggests: ardour
+Suggests: ardour3
 
 Suggests: non-sequencer
