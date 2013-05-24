@@ -1,4 +1,4 @@
-Task: multimedia-lv2-softsynths
+Task: multimedia-softsynths-lv2
 Description: LV2 plugins: softsynths and virtual instruments
  This metapackage installs LV2 plugins that are useful for creating music.
 
