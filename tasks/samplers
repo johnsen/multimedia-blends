@@ -2,17 +2,17 @@ Task: multimedia-samplers
 Description: Software samplers
  This metapackage will install free software samplers.
  
-#Depends: linuxsampler
+Depends: petri-foo
 
-Depends: specimen
+Depends: calfbox
 
-#Suggests: traverso 
+Depends: lisaloqt
 
-Suggests: linuxsampler
+Depends: samplv1
 
-Suggests: qsampler
-    
 Suggests: swami
 
+Suggests: qsynth
 
+Suggests: hydrogen
 
