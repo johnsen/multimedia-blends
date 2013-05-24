@@ -1,0 +1,18 @@
+Task: multimedia-audio-plugins
+Description: Audio processing plugins, synths and virtual instruments
+ This metapackage installs plugins that are useful for creating and
+ processing audio.
+
+Depends: ams
+
+Depends: zynaddsubfx
+
+Depends: amsynth
+
+Depends: setbfree
+
+Suggests: phasex
+
+Suggests: yoshimi
+
+Suggests: bristol
