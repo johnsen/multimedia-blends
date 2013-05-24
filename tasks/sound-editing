@@ -1,0 +1,12 @@
+Task: multimedia-sound-editing
+Description: Packages for sound editing
+ This package will install packages useful for sound editing.
+
+Depends: audacity
+
+Depends: mhwaveedit
+
+Depends: sox
+
+Suggests: ardour3
+
