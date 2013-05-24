@@ -36,6 +36,8 @@ Depends: rubberband-ladspa
 
 Depends: guitarix
 
+Depends: jalv
+
 Depends: lv2fil 
 
 Depends: mda-lv2
@@ -80,3 +82,4 @@ Suggests: ardour
 
 Suggests: audacity
 
+Suggests: carla
