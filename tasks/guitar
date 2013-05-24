@@ -8,9 +8,9 @@ Depends: rakarrack
 
 Depends: guitarix
 
-Depends: jack-capture
+Depends: caps
 
-Depends: jconvolver
+Depends: wah-plugins
 
 Suggests: tuxguitar
 
@@ -18,10 +18,5 @@ Suggests: clam-chordata
 
 Suggests: stretchplayer
 
-#Suggests: playitslowly
 
-Suggests: musescore
 
-Suggests: lilypond
-
-Suggests: frescobaldi

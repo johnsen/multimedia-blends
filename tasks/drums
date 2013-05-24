@@ -6,14 +6,16 @@ Depends: hydrogen
 
 Depends: hydrogen-drumkits
 
-Suggests: specimen
+Depends: drumkv1
+
+Suggests: petri-foo
+
+Suggests: nekobee
 
 Suggests: jackbeat
-
-Suggests: lmms
-
-Suggests: seq24
 
 Suggests: non-sequencer
 
 Suggests: puredata
+
+Suggests: lisaloqt
