@@ -2,7 +2,7 @@ Task: multimedia-recording
 Description: Packages for audio recording
  This package will install packages useful for recording audio and music
 
-Depends: ardour
+Depends: ardour3
 
 Depends: non-timeline
 
