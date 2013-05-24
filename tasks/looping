@@ -5,8 +5,6 @@ Description: Packages for looping music and audio
 
 Depends: sooperlooper
 
-Suggests: giada
-
 Suggests: freewheeling
 
 Suggests: seq24
