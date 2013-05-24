@@ -1,0 +1,17 @@
+Task: multimedia-lv2-softsynths
+Description: LV2 plugins, synths and virtual instruments
+ This metapackage installs LV2 plugins that are useful for creating music.
+
+Depends: mda-lv2
+
+Depends: calf-plugins
+
+Depends: setbfree
+
+Depends: carla
+
+Depends: jalv
+
+Depends: synthv1
+
+
