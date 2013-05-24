@@ -1,4 +1,4 @@
-Task: multimedia-dssi-softsynths
+Task: multimedia-softsynths-dssi
 Description: DSSI plugins: softsynths and virtual instruments
  This metapackage installs DSSI plugins that are useful for music production.
 
