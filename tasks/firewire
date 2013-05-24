@@ -3,8 +3,6 @@ Description: Packages for your firewire audiocard / interface
  This metapackage will install packages to configure your ffado
  supported firewire audio card.
 
-Depends: jackd
-
 Depends: jackd2-firewire | jackd1-firewire
 
 Depends: ffado-dbus-server
@@ -13,6 +11,3 @@ Depends: ffado-mixer-qt4
 
 Depends: ffado-tools
 
-Depends: a2jmidid
-
-Depends: patchage
