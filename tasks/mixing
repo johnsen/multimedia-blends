@@ -70,6 +70,10 @@ Depends: Invada-studio-plugins-ladspa
 
 Depends: Invada-studio-plugins-lv2
 
+Depends: autotalent
+
+Depends: sox
+
 Suggests: aubio-tools
 
 Suggests: jamin
@@ -83,8 +87,6 @@ Suggests: japa
 Suggests: jdelay
 
 Suggests: sonic-visualiser
-
-Suggests: sox
 
 Suggests: soundconverter
 
