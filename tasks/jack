@@ -1,6 +1,6 @@
 Task: multimedia-jack
-Description: JACK (Jack Audio Connection Kit) elated packages
- This metapackage will install pro audio JACK (Jack Audio Connection Kit)
+Description: JACK (Jack Audio Connection Kit) related packages
+ This metapackage will install proaudio JACK (Jack Audio Connection Kit)
  packages.
 
 Depends: jackd
