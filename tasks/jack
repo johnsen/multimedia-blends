@@ -1,0 +1,30 @@
+Task: multimedia-jack
+Description: JACK (Jack Audio Connection Kit) and ALSA related packages
+ This metapackage will install pro audio JACK (Jack Audio Connection Kit)
+ and ALSA related packages.
+
+Depends: jackd
+
+Depends: qjackctl
+
+Depends: a2jmidid
+
+Depends: jack-tools
+
+Depends: alsa-tools-gui
+
+Depends: alsa-tools
+
+Depends: alsa-utils
+
+Depends: mudita24
+
+Depends: vorbis-tools
+
+Depends: patchage
+
+Depends: aj-snapshot
+
+Depends: midisport-firmware
+
+Depends: nanonoise

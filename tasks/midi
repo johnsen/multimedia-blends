@@ -1,0 +1,62 @@
+Task: multimedia-midi
+Description: MIDI related packages
+ This metapackage will install packages useful for MIDI, including trackers,
+ MIDI synths and virtual keyboards.
+
+Depends: qtractor
+
+Depends: a2jmidid
+
+Depends: jack-keyboard
+
+#Depends: vkeybd
+
+Depends: qsynth
+
+Depends: aubio-tools
+
+Depends: fluidsynth
+
+Depends: fluid-soundfont-gm
+
+#Depends: aseqdump
+
+Depends: yoshimi
+
+Depends: seq24
+
+Depends: gmidimonitor
+
+#Depends: qmidiarp
+
+#Depends: qmidiroute
+
+#Depends: qmidicontrol
+
+Depends: jack-smf-utils
+
+#Depends: proaudio-plugins-dssi
+
+Suggests: kmidimon
+
+Depends: abcmidi
+
+Suggests: rosegarden
+
+Suggests: mididings
+
+Suggests: muse
+
+#Suggests: seq24
+
+Suggests: non-sequencer
+
+Suggests: lmms
+
+Suggests: swami
+
+Depends: jacker
+
+Depends: milkytracker
+
+Suggests: schism

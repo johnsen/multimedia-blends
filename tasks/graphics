@@ -1,0 +1,43 @@
+Task: multimedia-graphics
+Description: Packages for making and editing artwork
+ This metapackage will install packages for making and editing artwork.
+
+Depends: gimp
+
+Depends: gimp-data
+
+Depends: gimp-data-extras
+
+Depends: gimp-gap
+
+Depends: shutter
+
+Depends: gimp-plugin-registry
+
+Depends: gimp-ufraw
+
+Suggests: agave
+
+Suggests: blender
+
+Suggests: enblend
+
+Suggests: f-spot
+
+Suggests: fontforge
+
+Suggests: fontmatrix
+
+Suggests: hugin
+
+Suggests: inkscape
+
+Suggests: nautilus-image-converter
+
+Suggests: pstoedit
+
+Suggests: scribus
+
+Suggests: xsane
+
+Suggests: yafaray

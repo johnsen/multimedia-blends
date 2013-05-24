@@ -1,0 +1,11 @@
+Task: multimedia-ladi
+Description: LADI, Linuxaudio session management, packages
+ This metapackage will install packages for ladish.org.
+
+Depends: laditools
+
+Depends: jackd
+
+Depends: a2jmidid
+
+Depends: ladish

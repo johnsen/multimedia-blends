@@ -1,0 +1,27 @@
+Task: multimedia-guitar
+Description: Packages for playing with your (virtual) guitar gear
+ Packages which might be useful when playing guitar, adding guitar effects
+ to your audio streams and / or editing notation and tablature for your
+ guitar music.
+
+Depends: rakarrack
+
+Depends: guitarix
+
+Depends: jack-capture
+
+Depends: jconvolver
+
+Suggests: tuxguitar
+
+Suggests: clam-chordata
+
+Suggests: stretchplayer
+
+#Suggests: playitslowly
+
+Suggests: musescore
+
+Suggests: lilypond
+
+Suggests: frescobaldi

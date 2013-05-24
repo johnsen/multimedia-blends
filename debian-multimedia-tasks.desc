@@ -1,0 +1,457 @@
+Task: multimedia-ambisonics
+Section: debian-multimedia
+Description: Packages for working with ambisonics (3D surround sound)
+ This metapackage will install packages you need when working with
+ ambisonics.
+Relevance: 10
+Key: 
+ multimedia-ambisonics
+Packages: list
+ ambdec
+ amb-plugins
+ ardour
+ jackd
+ qjackctl
+ japa
+ jconvolver
+ jconvolver-config-files
+ drc
+ aliki
+ zita-rev1
+
+Task: multimedia-audio-plugins
+Section: debian-multimedia
+Description: Audio processing plugins, synths and virtual instruments
+ This metapackage installs plugins that are useful for creating and
+ processing audio.
+Relevance: 10
+Key: 
+ multimedia-audio-plugins
+Packages: list
+ ghostess
+ dssi-host-jack
+ dssi-utils
+ fluidsynth-dssi
+ hexter
+ whysynth
+ xsynth-dssi
+ calf-plugins
+ blop
+ amb-plugins
+ ambdec
+ rev-plugins
+ tap-plugins
+ wah-plugins
+ vco-plugins
+ blepvco
+ jack-rack
+ caps
+ fil-plugins
+ mcp-plugins
+ omins
+ swh-plugins
+ invada-studio-plugins-ladspa
+ rubberband-ladspa
+ csladspa
+ jconvolver
+ zita-at1
+ ams
+ autotalent
+ lv2vocoder
+ swh-lv2
+ ir.lv2
+ lv2fil
+ invada-studio-plugins-lv2
+ slv2-doc
+ slv2-jack
+ zynjacku
+ mda-lv2
+
+Task: multimedia-devel
+Section: debian-multimedia
+Description: Extra packages for developers and package compiling
+ This metapackage will install additional software to compile audio
+ software.
+Relevance: 10
+Key: 
+ multimedia-devel
+Packages: list
+ git-core
+ subversion
+ cvs
+ automake
+ build-essential
+ cmake
+ cmake-curses-gui
+ dssi-dev
+ fluid
+ libasound2-dev
+ libfftw3-dev
+ libjack-dev
+ liblircclient-dev
+ liblo-dev
+ liblrdf0-dev
+ libmxml-dev
+ libqt4-dev
+ libsamplerate0-dev
+ libsndfile1-dev
+ libxml++2.6-dev
+ xutils-dev
+ zlib1g-dev
+ uuid-dev
+ bison
+ lv2core
+ libslv2-dev
+ intltool
+ libtool
+ dh-buildinfo
+ libart-2.0-dev
+ libaubio-dev
+ libboost-dev
+ libgail-common
+ libgail-dev
+ libglademm-2.4-dev
+ libgnomecanvas2-dev
+ libgnomecanvasmm-2.6-dev
+ libsoundtouch-dev
+ libusb-dev
+ vamp-plugin-sdk
+ libmad0-dev
+ librubberband-dev
+ libvorbis-dev
+ ladspa-sdk
+
+Task: multimedia-djing
+Section: debian-multimedia
+Description: DJ packages.
+ This metapackage will install packages for djing
+Relevance: 10
+Key: 
+ multimedia-djing
+Packages: list
+ mixxx
+ xwax
+
+Task: multimedia-drums
+Section: debian-multimedia
+Description: Packages for drums & beats
+ Metapackage which installs packages for making drums and beats.
+Relevance: 10
+Key: 
+ multimedia-drums
+Packages: list
+ hydrogen
+ hydrogen-drumkits
+
+Task: multimedia-firewire
+Section: debian-multimedia
+Description: Packages for your firewire audiocard / interface
+ This metapackage will install packages to configure your ffado
+ supported firewire audio card.
+Relevance: 10
+Key: 
+ multimedia-firewire
+Packages: list
+ jackd
+ jackd2-firewire
+ ffado-dbus-server
+ ffado-mixer-qt4
+ ffado-tools
+ a2jmidid
+ patchage
+
+Task: multimedia-graphics
+Section: debian-multimedia
+Description: Packages for making and editing artwork
+ This metapackage will install packages for making and editing artwork.
+Relevance: 10
+Key: 
+ multimedia-graphics
+Packages: list
+ gimp
+ gimp-data
+ gimp-data-extras
+ gimp-gap
+ shutter
+ gimp-plugin-registry
+ gimp-ufraw
+
+Task: multimedia-guitar
+Section: debian-multimedia
+Description: Packages for playing with your (virtual) guitar gear
+ Packages which might be useful when playing guitar, adding guitar effects
+ to your audio streams and / or editing notation and tablature for your
+ guitar music.
+Relevance: 10
+Key: 
+ multimedia-guitar
+Packages: list
+ rakarrack
+ guitarix
+ jack-capture
+ jconvolver
+
+Task: multimedia-jack
+Section: debian-multimedia
+Description: JACK (Jack Audio Connection Kit) and ALSA related packages
+ This metapackage will install pro audio JACK (Jack Audio Connection Kit)
+ and ALSA related packages.
+Relevance: 10
+Key: 
+ multimedia-jack
+Packages: list
+ jackd
+ qjackctl
+ a2jmidid
+ jack-tools
+ alsa-tools-gui
+ alsa-tools
+ alsa-utils
+ mudita24
+ vorbis-tools
+ patchage
+ aj-snapshot
+
+Task: multimedia-ladi
+Section: debian-multimedia
+Description: LADI, Linuxaudio session management, packages
+ This metapackage will install packages for ladish.org.
+Relevance: 10
+Key: 
+ multimedia-ladi
+Packages: list
+ laditools
+ jackd
+ a2jmidid
+ ladish
+
+Task: multimedia-looping
+Section: debian-multimedia
+Description: Packages for looping music and audio
+ Metapackage which installs packages with the aim to loop your audio
+ (and midi).
+Relevance: 10
+Key: 
+ multimedia-looping
+Packages: list
+ sooperlooper
+
+Task: multimedia-midi
+Section: debian-multimedia
+Description: MIDI related packages
+ This metapackage will install packages useful for MIDI, including trackers,
+ MIDI synths and virtual keyboards.
+Relevance: 10
+Key: 
+ multimedia-midi
+Packages: list
+ qtractor
+ a2jmidid
+ jack-keyboard
+ qsynth
+ aubio-tools
+ fluidsynth
+ fluid-soundfont-gm
+ yoshimi
+ seq24
+ gmidimonitor
+ abcmidi
+ milkytracker
+
+Task: multimedia-mixing
+Section: debian-multimedia
+Description: Packages for mixing and mastering your music
+ This metapackage will install software to do mixing and mastering.
+Relevance: 10
+Key: 
+ multimedia-mixing
+Packages: list
+ audacity
+ aubio-tools
+ jkmeter
+ meterbridge
+ japa
+ sonic-visualiser
+ sox
+ libsox-fmt-all
+ soundconverter
+ jack-mixer
+
+Task: multimedia-musiciantools
+Section: debian-multimedia
+Description: Packages for musicians
+ This metapackage will install packages useful for musiciants.
+ It includes metronomes, instrument tuners and music notation software.
+Relevance: 10
+Key: 
+ multimedia-musiciantools
+Packages: list
+ solfege
+ klick
+ gtklick
+ musescore
+ lilypond
+ lilypond-data
+
+Task: multimedia-players
+Section: debian-multimedia
+Description: Packages which makes your multimedia tools complete
+ This metapackage will install additional 'consumer' multimedia software.
+Relevance: 10
+Key: 
+ multimedia-players
+Packages: list
+ vlc
+ vlc-plugin-jack
+ moc
+ smplayer
+
+Task: multimedia-recording
+Section: debian-multimedia
+Description: Packages for audio recording
+ This package will install packages useful for recording audio and music
+Relevance: 10
+Key: 
+ multimedia-recording
+Packages: list
+ ardour
+ timemachine
+ qtractor
+ jack-capture
+ meterbridge
+ qjackctl
+ jackd
+ xjadeo
+ jack-mixer
+
+Task: multimedia-samplers
+Section: debian-multimedia
+Description: Software samplers
+ This metapackage will install free software samplers.
+Relevance: 10
+Key: 
+ multimedia-samplers
+Packages: list
+ specimen
+
+Task: multimedia-soundsynthesis
+Section: debian-multimedia
+Description: Packages for sound synthesis
+ This package will install packages useful for sound synthesis.
+Relevance: 10
+Key: 
+ multimedia-soundsynthesis
+Packages: list
+ supercollider-emacs
+ csound
+ csound-gui
+ csound-utils
+ qutecsound
+ puredata
+ pd-cxc
+ pd-ext13
+ pd-ggee
+ pd-hid
+ pd-iemmatrix
+ pd-lyonpotpourri
+ pd-mapping
+ pd-markex
+ pd-mjlib
+ pd-motex
+ pd-pdp
+ pd-readanysf
+ pd-sigpack
+ pd-smlib
+ pd-unauthorized
+ pd-windowing
+ pd-zexy
+ pd-arraysize
+ pd-aubio
+ pd-bassemu
+ pd-beatpipe
+ pd-comport
+ pd-csound
+ pd-plugin
+ gem
+ din
+ faust
+ sox
+ libsox-fmt-all
+ yoshimi
+ phasex
+ ams
+ bristol
+ supercollider-supernova
+ python-csound
+ python-csoundac
+ csladspa
+ monobristol
+ multimedia-audio-plugins
+ ghostess
+ dssi-host-jack
+ dssi-utils
+ fluidsynth-dssi
+ hexter
+ whysynth
+ xsynth-dssi
+ calf-plugins
+ blop
+ amb-plugins
+ ambdec
+ rev-plugins
+ tap-plugins
+ wah-plugins
+ vco-plugins
+ blepvco
+ jack-rack
+ caps
+ fil-plugins
+ mcp-plugins
+ omins
+ swh-plugins
+ invada-studio-plugins-ladspa
+ rubberband-ladspa
+ jconvolver
+ zita-at1
+ autotalent
+ lv2vocoder
+ swh-lv2
+ ir.lv2
+ lv2fil
+ invada-studio-plugins-lv2
+ slv2-doc
+ slv2-jack
+ zynjacku
+ mda-lv2
+
+Task: multimedia-timestretching
+Section: debian-multimedia
+Description: Packages for stretching music and audio
+ This package will install programs and plugins for stretching sounds in time.
+Relevance: 10
+Key: 
+ multimedia-timestretching
+Packages: list
+ paulstretch
+ rubberband-cli
+ rubberband-ladspa
+ rubberband-vamp
+ stretchplayer
+
+Task: multimedia-video
+Section: debian-multimedia
+Description: Video packages
+ This metapackage will install Video software. Some are especially useful
+ to combine video and sound.
+Relevance: 10
+Key: 
+ multimedia-video
+Packages: list
+ xjadeo
+ blender
+ lives
+ openshot
+ libav-tools
+ ffmpeg2theora
+ gjacktransport
+

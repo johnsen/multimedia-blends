@@ -1,0 +1,41 @@
+Task: multimedia-recording
+Description: Packages for audio recording
+ This package will install packages useful for recording audio and music
+
+Depends: ardour
+
+Depends: timemachine
+
+Depends: qtractor
+
+Depends: jack-capture
+
+Depends: meterbridge
+
+Depends: qjackctl
+
+Depends: jackd
+
+Depends: xjadeo
+
+#Depends: multimedia-proaudio-plugins-lv2
+
+#Depends: multimedia-proaudio-plugins-ladspa
+
+Depends: jack-mixer
+
+Depends: non-mixer
+
+Suggests: non-daw
+
+Suggests: ecasound
+
+Suggests: traverso
+
+Suggests: rezound
+
+Suggests: timemachine
+
+Depends: jack-oscrolloscope
+
+Suggests: jokosher

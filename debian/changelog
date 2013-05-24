@@ -1,0 +1,28 @@
+debian-multimedia (0.2) unstable; urgency=low
+
+  * New version for debian-multimedia team
+    - Rename all packages to remove the openstudio brand
+    - Change maintainer to the multimedia team
+    - Remove out-of-scope metapackages
+    - Merge related metapackages
+      + *-plugins into audio-plugins
+      + synth and soundsynthesis
+      + trackers and midi 
+      + musicnotation and composing into musiciantools
+  * Remove all dev packages except in -devel task
+  * Fix various package names
+  * Remove stale files from example blends project
+  * Add Reinhard to Uploaders
+  * Add multimedia-tasks package
+  * Add copyright file
+  * Shorten description lines to < 80 chars
+  * Add source format version
+  * Bump standards-version
+
+ -- Felipe Sateler <fsateler@debian.org>  Mon, 20 May 2013 10:05:07 -0400
+
+debian-multimedia (0.1) lucid; urgency=low
+
+  * Initial release. 
+
+ -- peerjam <linuxpeerjam@gmail.com>  Sun, 31 Oct 2010 10:02:57 +0100

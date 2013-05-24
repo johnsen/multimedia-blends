@@ -1,0 +1,16 @@
+Source: debian-multimedia
+Section: misc
+Priority: extra
+Maintainer: Debian Multimedia Maintainers <pkg-multimedia-maintainers@lists.alioth.debian.org>
+Uploaders:
+ Felipe Sateler <fsateler@debian.org>,
+ Reinhard Tartler <siretart@tauware.de>
+Build-Depends-Indep: debhelper (>= 7.1), blends-dev
+Standards-Version: 3.9.1
+
+Package: multimedia-tasks
+Architecture: all
+Depends: tasksel
+Description: Debian Multimedia tasks for tasksel
+ This package provides Debian Multimedia tasks in tasksel.
+

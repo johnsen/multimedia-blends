@@ -1,0 +1,20 @@
+Task: multimedia-looping
+Description: Packages for looping music and audio
+ Metapackage which installs packages with the aim to loop your audio
+ (and midi).
+
+Depends: sooperlooper
+
+Depends: smasher
+
+Suggests: kluppe
+
+Suggests: freewheeling
+
+Suggests: seq24
+
+Suggests: rosegarden
+
+Suggests: ardour
+
+Suggests: non-sequencer

@@ -1,0 +1,18 @@
+Task: multimedia-samplers
+Description: Software samplers
+ This metapackage will install free software samplers.
+ 
+#Depends: linuxsampler
+
+Depends: specimen
+
+#Suggests: traverso 
+
+Suggests: linuxsampler
+
+Suggests: qsampler
+    
+Suggests: swami
+
+
+

@@ -1,0 +1,13 @@
+Task: multimedia-players
+Description: Packages which makes your multimedia tools complete
+ This metapackage will install additional 'consumer' multimedia software.
+
+Depends: vlc
+
+Depends: vlc-plugin-jack
+
+Depends: moc
+
+Depends: smplayer
+
+Suggests: aqualung

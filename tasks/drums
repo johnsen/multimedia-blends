@@ -1,0 +1,19 @@
+Task: multimedia-beat
+Description: Packages for drums & beats
+ Metapackage which installs packages for making drums and beats.
+
+Depends: hydrogen
+
+Depends: hydrogen-drumkits
+
+Suggests: specimen
+
+Suggests: jackbeat
+
+Suggests: lmms
+
+Suggests: seq24
+
+Suggests: non-sequencer
+
+Suggests: puredata

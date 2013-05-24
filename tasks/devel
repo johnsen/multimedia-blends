@@ -1,0 +1,85 @@
+Task: multimedia-devel
+Description: Extra packages for developers and package compiling
+ This metapackage will install additional software to compile audio
+ software.
+
+Depends: git-core
+
+Depends: subversion
+
+Depends: cvs
+
+Depends: automake
+
+Depends: build-essential
+
+Depends: cmake
+
+Depends: cmake-curses-gui
+
+Depends: dssi-dev
+
+Depends: fluid
+
+Depends: libasound2-dev
+
+Depends: libfftw3-dev
+
+Depends: libjack-dev
+
+Depends: liblircclient-dev
+
+Depends: liblo-dev
+
+Depends: liblrdf0-dev
+
+Depends: libmxml-dev
+
+Depends: libqt4-dev
+
+Depends: libsamplerate0-dev
+
+Depends: libsndfile1-dev
+
+Depends: libxml++2.6-dev
+
+Depends: xutils-dev
+
+Depends: zlib1g-dev
+
+#linuxsampler:
+
+Depends: uuid-dev
+
+Depends: bison
+
+Depends: lv2core
+
+Depends: libslv2-dev
+
+Depends: intltool
+
+Depends: libtool
+#ardour:
+
+Depends: dh-buildinfo
+Depends: libart-2.0-dev
+Depends: libaubio-dev
+Depends: libboost-dev
+Depends: libfftw3-dev
+Depends: libgail-common
+Depends: libgail-dev
+Depends: libglademm-2.4-dev
+Depends: libgnomecanvas2-dev
+Depends: libgnomecanvasmm-2.6-dev
+Depends: liblrdf0-dev
+Depends: libsoundtouch-dev
+Depends: libusb-dev
+Depends: vamp-plugin-sdk
+
+#qtractor
+Depends: libmad0-dev
+Depends: librubberband-dev
+Depends: libvorbis-dev
+Depends: libmad0-dev
+Depends: ladspa-sdk

@@ -1,0 +1,41 @@
+Task: multimedia-mixing
+Description: Packages for mixing and mastering your music
+ This metapackage will install software to do mixing and mastering.
+
+Depends: audacity
+
+Depends: aubio-tools
+
+Suggests: jamin
+
+Depends: gcdmaster
+
+Depends: jkmeter
+
+Depends: meterbridge
+
+Depends: japa
+
+#Depends: arpage
+
+Depends: jdelay
+
+Depends: sonic-visualiser
+
+Depends: sox
+
+Depends: libsox-fmt-all
+
+Depends: soundconverter
+
+#Depends: multimedia-proaudio-plugins-lv2
+
+#Depends: multimedia-proaudio-plugins-ladspa
+
+Depends: jack-mixer
+
+Depends: non-mixer
+
+Suggests: mhwaveedit
+
+Suggests: rezound

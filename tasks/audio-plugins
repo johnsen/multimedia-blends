@@ -1,0 +1,92 @@
+Task: multimedia-audio-plugins
+Description: Audio processing plugins, synths and virtual instruments
+ This metapackage installs plugins that are useful for creating and
+ processing audio.
+
+Depends: ghostess
+
+Depends: dssi-host-jack
+
+Depends: dssi-utils
+
+Depends: fluidsynth-dssi
+
+Depends: hexter
+
+Depends: zynaddsubfx-dssi
+
+Depends: whysynth
+
+Depends: xsynth-dssi
+
+Depends: calf-plugins
+
+Depends: linuxsampler-dssi
+
+Depends: blop
+
+Depends: amb-plugins
+
+Depends: ambdec
+
+Depends: rev-plugins
+
+Depends: tap-plugins
+
+Depends: wah-plugins
+
+Depends: vco-plugins
+
+Depends: blepvco
+
+Depends: jack-rack
+
+Depends: caps
+
+Depends: fil-plugins
+
+Depends: mcp-plugins
+
+Depends: omins
+
+Depends: swh-plugins
+
+Depends: invada-studio-plugins-ladspa
+
+Depends: rubberband-ladspa
+
+Depends: csladspa
+
+Depends: jconvolver
+
+Suggests: jcgui
+
+Depends: zita-at1
+
+Suggests: zita-rev1
+
+Depends: ams
+
+Depends: autotalent
+
+Depends: ladspa-foo-plugins
+
+Depends: lv2vocoder
+
+Depends: swh-lv2
+
+Depends: ir.lv2
+
+Depends: lv2fil
+
+Depends: invada-studio-plugins-lv2
+
+Depends: slv2-doc
+
+Depends: slv2-jack
+
+Depends: zynjacku
+
+Depends: mda-lv2
+
+Depends: linuxsampler-lv2

@@ -1,0 +1,19 @@
+Task: multimedia-timestretching
+Description: Packages for stretching music and audio
+ This package will install programs and plugins for stretching sounds in time.
+
+Depends: paulstretch
+
+Depends: rubberband-cli
+
+Depends: rubberband-ladspa
+
+Depends: rubberband-vamp
+
+Depends: stretchplayer
+
+Suggests: rosegarden
+
+Suggests: ardour
+
+Suggests: qtractor

@@ -1,0 +1,34 @@
+Task: multimedia-video
+Description: Video packages
+ This metapackage will install Video software. Some are especially useful
+ to combine video and sound.
+
+Depends: xjadeo
+
+#Depends: qjadeo
+
+Depends: blender
+
+Depends: lives
+
+Depends: openshot
+
+Depends: libav-tools
+
+Depends: ffmpeg2theora
+
+Depends: gjacktransport
+
+Suggests: kdenlive
+
+#Suggests: lives
+
+Suggests: dvgrab
+
+Suggests: freemix
+
+Suggests: kino
+
+Suggests: stopmotion
+
+Suggests: subtitleeditor

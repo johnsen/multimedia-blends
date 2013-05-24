@@ -1,0 +1,38 @@
+Task: multimedia-musician
+Description: Packages for musicians
+ This metapackage will install packages useful for musiciants.
+ It includes metronomes, instrument tuners and music notation software.
+
+Depends: solfege
+
+Depends: klick
+
+Depends: gtklick
+
+Suggests: fmit
+
+Suggests: stretchplayer
+
+#Suggests: playitslowly
+
+Suggests: impro-visor
+
+#Depends: audacity
+
+Depends: musescore
+
+Depends: lilypond
+
+Depends: lilypond-data
+
+Suggests: nted
+
+Suggests: frescobaldi
+
+Suggests: denemo
+
+Suggests: rosegarden
+
+Depends: impro-visor
+
+Suggests: mma

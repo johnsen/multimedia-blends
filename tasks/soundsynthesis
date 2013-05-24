@@ -1,0 +1,102 @@
+Task: multimedia-soundsynthesis
+Description: Packages for sound synthesis
+ This package will install packages useful for sound synthesis.
+
+Depends: supercollider-ide | supercollider-emacs | supercollider-gedit
+Recommends: supercollider-supernova
+
+Depends: csound
+Depends: csound-gui
+Depends: csound-utils
+Depends: qutecsound
+Recommends: python-csound
+Recommends: python-csoundac
+Recommends: csladspa
+
+
+Depends: puredata
+Depends: pd-abstractions
+Depends: pd-arduino
+Depends: pd-container
+Depends: pd-creb
+Depends: pd-cxc
+Depends: pd-ext13
+Depends: pd-flext
+Depends: pd-gem2pdp
+Depends: pd-ggee
+Depends: pd-gridflow
+Depends: pd-hid
+Depends: pd-iemlib
+Depends: pd-iemmatrix
+Depends: pd-libstdcpp
+Depends: pd-lua
+Depends: pd-lyonpotpourri
+Depends: pd-mapping
+Depends: pd-markex
+Depends: pd-mjlib
+Depends: pd-motex
+Depends: pd-mrpeach
+Depends: pd-msd
+Depends: pd-ogg
+Depends: pd-opencv-data
+Depends: pd-oscbank
+Depends: pd-pdp
+Depends: pd-pidip
+Depends: pd-pix-opencv
+Depends: pd-pool
+Depends: pd-py
+Depends: pd-readanysf
+Depends: pd-sigpack
+Depends: pd-smlib
+Depends: pd-unauthorized
+Depends: pd-windowing
+Depends: pd-xsample
+Depends: pd-zexy
+Depends: pd-arraysize
+Depends: pd-aubio
+Depends: pd-bassemu
+Depends: pd-beatpipe
+Depends: pd-comport
+Depends: pd-csound
+Depends: pd-plugin
+Depends: gem
+
+Depends: din
+Depends: faust
+Depends: sox
+Depends: libsox-fmt-all
+
+Suggests: chuck
+
+
+Depends: yoshimi
+
+Depends: phasex
+
+Depends: ams
+
+Suggests: foo-yc20
+
+Depends: bristol
+
+Recommends: monobristol
+
+Depends: puredata
+
+Suggests: amsynth
+
+Suggests: minicomputer
+
+Suggests: aeolus
+
+Suggests: azr3-jack
+
+Suggests: genpo
+
+Suggests: ingen-svn
+
+Suggests: zynaddsubfx
+
+Suggests: multimedia-samplers
+
+Recommends: multimedia-audio-plugins

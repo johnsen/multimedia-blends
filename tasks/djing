@@ -1,0 +1,11 @@
+Task: multimedia-djing
+Description: DJ packages.
+ This metapackage will install packages for djing
+
+Depends: mixxx
+
+Depends: xwax
+
+Suggests: terminatorx
+
+Suggests: jackeq
