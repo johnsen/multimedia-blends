@@ -1,0 +1,24 @@
+Task: multimedia-dssi-plugins
+Description: DSSI plugins, synths and virtual instruments
+ This metapackage installs DSSI plugins that are useful for creating and
+ processing audio.
+
+Depends: ghostess
+
+Depends: dssi-host-jack
+
+Depends: dssi-utils
+
+Depends: fluidsynth-dssi
+
+Depends: hexter
+
+Depends: zynaddsubfx-dssi
+
+Depends: whysynth
+
+Depends: nekobee
+
+Suggests: xsynth-dssi
+
+Suggests: wsynth-dssi
