@@ -2,40 +2,81 @@ Task: multimedia-mixing
 Description: Packages for mixing and mastering your music
  This metapackage will install software to do mixing and mastering.
 
-Depends: audacity
+Depends: non-mixer
 
-Depends: aubio-tools
+Depends: amb-plugins 
 
-Suggests: jamin
+Depends: mcp-plugins
 
-Depends: gcdmaster
+Depends: swh-plugins
 
-Depends: jkmeter
+Depends: swh-lv2
+
+Depends: tap-plugins  
+
+Depends: wah-plugins
+
+Depends: calf-plugins 
+
+Depends: zita-rev1
+
+Depends: zita-at1
 
 Depends: meterbridge
 
-Depends: japa
-
-#Depends: arpage
-
-Depends: jdelay
-
-Depends: sonic-visualiser
-
-Depends: sox
-
-Depends: libsox-fmt-all
-
-Depends: soundconverter
-
-#Depends: multimedia-proaudio-plugins-lv2
-
-#Depends: multimedia-proaudio-plugins-ladspa
-
-Depends: jack-mixer
-
 Depends: non-mixer
 
-Suggests: mhwaveedit
+Depends: caps 
 
-Suggests: rezound
+Depends: fil-plugins 
+
+Depends: jconvolver
+
+Depends: rubberband-ladspa 
+
+Depends: guitarix
+
+Depends: lv2fil 
+
+Depends: mda-lv2
+
+Depends: avw.lv2
+
+Depends: omins 
+
+Depends: rev-plugins 
+
+Depends: tap-plugins 
+
+Suggests: lv2vocoder
+
+Suggests: ir.lv2 
+
+Suggests: vco-plugins 
+
+Suggests: Invada-studio-plugins-ladspa
+
+Suggests: Invada-studio-plugins-lv2
+
+Suggests: aubio-tools
+
+Suggests: jamin
+
+Suggests: gcdmaster
+
+Suggests: jkmeter
+
+Suggests: japa
+
+Suggests: jdelay
+
+Suggests: sonic-visualiser
+
+Suggests: sox
+
+Suggests: soundconverter
+
+Suggests: ardour
+
+Suggests: audacity
+
