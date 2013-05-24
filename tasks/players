@@ -6,7 +6,7 @@ Depends: vlc
 
 Depends: vlc-plugin-jack
 
-Depends: moc
+Suggests: moc
 
 Depends: smplayer
 
