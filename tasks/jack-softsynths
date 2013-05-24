@@ -1,7 +1,6 @@
-Task: multimedia-audio-plugins
-Description: Audio processing plugins, synths and virtual instruments
- This metapackage installs plugins that are useful for creating and
- processing audio.
+Task: multimedia-jack-softsynths
+Description: JACK standalone softsynths
+ This metapackage installs JACK standalone softsynths for music production.
 
 Depends: ams
 
