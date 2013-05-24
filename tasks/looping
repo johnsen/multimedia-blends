@@ -7,10 +7,6 @@ Depends: sooperlooper
 
 Suggests: giada
 
-Suggests: smasher
-
-Suggests: kluppe
-
 Suggests: freewheeling
 
 Suggests: seq24
