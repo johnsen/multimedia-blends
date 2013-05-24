@@ -5,11 +5,11 @@ Description: Video packages
 
 Depends: xjadeo
 
-#Depends: qjadeo
+Suggests: blender
 
-Depends: blender
+Suggests: lives
 
-Depends: lives
+Suggests: ardour3
 
 Depends: openshot
 
@@ -20,8 +20,6 @@ Depends: ffmpeg2theora
 Depends: gjacktransport
 
 Suggests: kdenlive
-
-#Suggests: lives
 
 Suggests: dvgrab
 
