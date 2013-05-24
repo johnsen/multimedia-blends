@@ -62,41 +62,15 @@ Depends: pd-plugin
 Depends: gem
 
 Depends: din
+
 Depends: faust
+
 Depends: sox
-Depends: libsox-fmt-all
 
 Suggests: chuck
 
-
-Depends: yoshimi
-
-Depends: phasex
-
 Depends: ams
-
-Suggests: foo-yc20
-
-Depends: bristol
-
-Recommends: monobristol
 
 Depends: puredata
 
-Suggests: amsynth
 
-Suggests: minicomputer
-
-Suggests: aeolus
-
-Suggests: azr3-jack
-
-Suggests: genpo
-
-Suggests: ingen-svn
-
-Suggests: zynaddsubfx
-
-Suggests: multimedia-samplers
-
-Recommends: multimedia-audio-plugins
