@@ -76,7 +76,7 @@ Suggests: sox
 
 Suggests: soundconverter
 
-Suggests: ardour
+Suggests: ardour3
 
 Suggests: audacity
 
