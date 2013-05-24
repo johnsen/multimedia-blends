@@ -1,0 +1,11 @@
+Task: multimedia-NON
+Description: Non-session-manager, non-timeline, non-mixer and non-sequencer
+ This metapackage will install NON tools for modular music production.
+
+Depends: non-session-manager
+
+Depends: non-timeline
+
+Depends: non-mixer
+
+Depends: non-sequencer
