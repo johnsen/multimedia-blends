@@ -12,6 +12,12 @@ Depends: swh-plugins
 
 Depends: swh-lv2
 
+Depends: eq10q
+
+Depends: fomp
+
+Depends: abgate
+
 Depends: tap-plugins  
 
 Depends: wah-plugins
@@ -44,19 +50,25 @@ Depends: avw.lv2
 
 Depends: omins 
 
+Depends: cmt
+
+Depends: vocoder-ladspa
+
+Depends: blop
+
 Depends: rev-plugins 
 
 Depends: tap-plugins 
 
-Suggests: lv2vocoder
+Depends: lv2vocoder
 
-Suggests: ir.lv2 
+Depends: ir.lv2 
 
-Suggests: vco-plugins 
+Depends: vco-plugins 
 
-Suggests: Invada-studio-plugins-ladspa
+Depends: Invada-studio-plugins-ladspa
 
-Suggests: Invada-studio-plugins-lv2
+Depends: Invada-studio-plugins-lv2
 
 Suggests: aubio-tools
 
