@@ -1,5 +1,5 @@
 Task: multimedia-mixing
-Description: Packages for mixing and mastering your music
+Description: LADSPA and LV2 plugins and other packages for mixing and mastering your music
  This metapackage will install software to do mixing and mastering.
 
 Depends: non-mixer
