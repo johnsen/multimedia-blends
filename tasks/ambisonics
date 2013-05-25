@@ -7,7 +7,7 @@ Depends: ambdec
 
 Depends: amb-plugins
 
-Depends: ardour
+Depends: ardour3
 
 Depends: jackd
 
@@ -25,4 +25,6 @@ Depends: aliki
 
 Depends: zita-rev1
 
-Suggests: non-mixer
+Depends: non-mixer
+
+Suggests: non-timeline
