@@ -13,13 +13,13 @@ Suggests: fmit
 
 Suggests: stretchplayer
 
-Depends: musescore
+Depends: laborejo
 
 Depends: lilypond
 
 Depends: lilypond-data
 
-Suggests: laborejo
+Suggests: musescore
 
 Suggests: frescobaldi
 
